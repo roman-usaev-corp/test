@@ -1,2 +1,5 @@
-# test
-Frontend application
+## Getting Started
+
+npm i
+npm run dev
+
