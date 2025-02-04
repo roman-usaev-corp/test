@@ -1,5 +1,11 @@
-## Getting Started
+# Test app Next.js
 
+### Install
+```
 npm i
-npm run dev
+```
 
+### Develop
+```
+npm run dev
+```
